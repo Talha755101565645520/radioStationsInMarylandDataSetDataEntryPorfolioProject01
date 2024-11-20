@@ -16,3 +16,7 @@ includes `Ctrl + C` for Copy and `Ctrl + V` for Paste. The information includes 
 2. https://radio-locator.com/cgi-bin/finder?sr=Y&s=T&state=MD
 
 3. https://publicfiles.fcc.gov/fm-profile/WCEI-FM
+
+## Screenshot Image Showing Microsoft Excel Spreadsheet File "radio_stations_in_maryland_data_set_data_entry_portfolio_project.xlsx":
+
+![Alt text](Radio_Stations_in_Maryland_Data_Set_Data_Entry_Portfolio_Project_01.png)
